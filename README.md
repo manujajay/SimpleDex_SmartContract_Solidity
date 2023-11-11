@@ -25,7 +25,7 @@ A step-by-step series of examples that tell you how to get a development environ
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/manujajay/SimpleDex_SmartContract_Solidity.git>
    ```
 
 2. **Install dependencies**
